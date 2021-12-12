@@ -3,12 +3,37 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dda85b2-4e1c-4cc9-856e-ca6fe41a843c" name="Default Changelist" comment="" />
+    <list default="true" id="7dda85b2-4e1c-4cc9-856e-ca6fe41a843c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/datajpa/DataJpaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/datajpa/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/datajpa/entity/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/study/datajpa/repository/MemberJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/datajpa/DataJpaApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/study/datajpa/repository/MemberJPARepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/datajpa/entity/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/datajpa/repository/MemberJPARepository.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -31,61 +56,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-                <item name="org.springframework.boot:spring-boot-starter-data-jpa:2.6.1" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-                <item name="org.springframework.boot:spring-boot-starter-web:2.6.1" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-                <item name="org.springframework.boot:spring-boot-starter-data-jpa:2.6.1" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="testRuntimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="data-jpa" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
@@ -98,8 +68,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -124,21 +94,22 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="study.datajpa.entity" />
       <recent name="study.datajpa.repository" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberJPARepositoryTest">
+  <component name="RunManager" selected="JUnit.MemberTest.testEntity">
     <configuration name="DataJpaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.datajpa.DataJpaApplication" />
       <module name="data-jpa.main" />
@@ -201,8 +172,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MemberTest.testEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.datajpa.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study.datajpa.entity" />
+      <option name="MAIN_CLASS_NAME" value="study.datajpa.entity.MemberTest" />
+      <option name="METHOD_NAME" value="testEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MemberTest.testEntity" />
         <item itemvalue="JUnit.MemberJPARepositoryTest" />
         <item itemvalue="Application.DataJpaApplication" />
         <item itemvalue="JUnit.DataJpaApplicationTests" />
@@ -231,40 +220,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1639238328795">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1639324150828">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1639238328795" />
-    <state width="1398" height="392" key="GridCell.Tab.0.bottom" timestamp="1639241790544">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1639324150828" />
+    <state width="1233" height="392" key="GridCell.Tab.0.bottom" timestamp="1639325076253">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="392" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1639238741638" />
+    <state width="1233" height="392" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1639325076253" />
     <state width="1398" height="392" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1639241790544" />
-    <state width="1398" height="392" key="GridCell.Tab.0.center" timestamp="1639241790543">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1233" height="392" key="GridCell.Tab.0.center" timestamp="1639325076252">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="392" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1639238741637" />
+    <state width="1233" height="392" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1639325076252" />
     <state width="1398" height="392" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1639241790543" />
-    <state width="1398" height="392" key="GridCell.Tab.0.left" timestamp="1639241790543">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1233" height="392" key="GridCell.Tab.0.left" timestamp="1639325076251">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="392" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1639238741636" />
+    <state width="1233" height="392" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1639325076251" />
     <state width="1398" height="392" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1639241790543" />
-    <state width="1398" height="392" key="GridCell.Tab.0.right" timestamp="1639241790544">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1233" height="392" key="GridCell.Tab.0.right" timestamp="1639325076252">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="392" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1639238741637" />
+    <state width="1233" height="392" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1639325076252" />
     <state width="1398" height="392" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1639241790544" />
-    <state x="220" y="89" key="SettingsEditor" timestamp="1639237938551">
+    <state x="220" y="23" width="1024" height="809" key="SettingsEditor" timestamp="1639324635183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1639237938551" />
-    <state x="491" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1639238178427">
+    <state x="220" y="23" width="1024" height="809" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1639324635183" />
+    <state x="491" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1639323962090">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="491" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1639238178427" />
+    <state x="491" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1639323962090" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
